@@ -1,0 +1,37 @@
+nama,penyedia,latitude,longitude,layanan,jam_operasional,pickup
+Pos Pontianak Timur 01,Pos,-0.02705,109.365803,Kargo,24 Jam,Tidak
+JNE Pontianak Timur 02,JNE,-0.019381,109.365758,Kargo,08.00-17.00,Ya
+J&T Pontianak Timur 03,J&T,-0.041304,109.359175,Reguler,08.00-17.00,Ya
+SiCepat Pontianak Timur 04,SiCepat,-0.026425,109.369622,Reguler,08.00-17.00,Tidak
+Anteraja Pontianak Timur 05,Anteraja,-0.033077,109.368843,Express,08.00-17.00,Ya
+Pos Pontianak Timur 06,Pos,-0.02895,109.361775,Reguler,08.00-17.00,Ya
+JNE Pontianak Timur 07,JNE,-0.024452,109.357796,Reguler,24 Jam,Tidak
+J&T Pontianak Timur 08,J&T,-0.020008,109.366377,Reguler,08.00-17.00,Ya
+SiCepat Pontianak Timur 09,SiCepat,-0.023714,109.349726,Kargo,08.00-17.00,Ya
+Anteraja Pontianak Timur 10,Anteraja,-0.027181,109.351041,Reguler,08.00-17.00,Tidak
+Pos Pontianak Timur 11,Pos,-0.018664,109.348128,Reguler,08.00-17.00,Ya
+JNE Pontianak Timur 12,JNE,-0.018957,109.351981,Reguler,08.00-17.00,Ya
+J&T Pontianak Timur 13,J&T,-0.035057,109.371075,Kargo,24 Jam,Tidak
+SiCepat Pontianak Timur 14,SiCepat,-0.020973,109.363018,Reguler,08.00-17.00,Ya
+Anteraja Pontianak Timur 15,Anteraja,-0.019417,109.364575,Express,08.00-17.00,Ya
+Pos Pontianak Timur 16,Pos,-0.034829,109.356669,Reguler,08.00-17.00,Tidak
+JNE Pontianak Timur 17,JNE,-0.019541,109.354331,Express,08.00-17.00,Ya
+J&T Pontianak Timur 18,J&T,-0.034767,109.362475,Reguler,08.00-17.00,Ya
+SiCepat Pontianak Timur 19,SiCepat,-0.027697,109.364984,Reguler,24 Jam,Tidak
+Anteraja Pontianak Timur 20,Anteraja,-0.034561,109.367644,Express,08.00-17.00,Ya
+Pos Pontianak Timur 21,Pos,-0.025286,109.352435,Express,08.00-17.00,Ya
+JNE Pontianak Timur 22,JNE,-0.025088,109.349368,Reguler,08.00-17.00,Tidak
+J&T Pontianak Timur 23,J&T,-0.019219,109.356583,Express,08.00-17.00,Ya
+SiCepat Pontianak Timur 24,SiCepat,-0.041566,109.366906,Express,08.00-17.00,Ya
+Anteraja Pontianak Timur 25,Anteraja,-0.032967,109.36819,Express,24 Jam,Tidak
+Pos Pontianak Timur 26,Pos,-0.040879,109.352342,Reguler,08.00-17.00,Ya
+JNE Pontianak Timur 27,JNE,-0.039144,109.353906,Express,08.00-17.00,Ya
+J&T Pontianak Timur 28,J&T,-0.033735,109.356515,Kargo,08.00-17.00,Tidak
+SiCepat Pontianak Timur 29,SiCepat,-0.035979,109.359108,Kargo,08.00-17.00,Ya
+Anteraja Pontianak Timur 30,Anteraja,-0.024038,109.367133,Express,08.00-17.00,Ya
+Pos Pontianak Timur 31,Pos,-0.041121,109.370699,Reguler,24 Jam,Tidak
+JNE Pontianak Timur 32,JNE,-0.036996,109.360309,Express,08.00-17.00,Ya
+J&T Pontianak Timur 33,J&T,-0.019966,109.356159,Kargo,08.00-17.00,Ya
+SiCepat Pontianak Timur 34,SiCepat,-0.028917,109.355499,Express,08.00-17.00,Tidak
+Anteraja Pontianak Timur 35,Anteraja,-0.034652,109.367171,Kargo,08.00-17.00,Ya
+Pos Pontianak Timur 36,Pos,-0.038427,109.36454,Express,08.00-17.00,Ya
