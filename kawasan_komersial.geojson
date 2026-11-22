@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "kawasan_komersial",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"fid":1,"nama":"Kawasan Komersial Perintis"},"geometry":{"type":"Polygon","coordinates":[[[109.355904571227853,-0.034998863024771],[109.359871516836876,-0.038084265165117],[109.36305486825151,-0.034705015201881],[109.360361263208361,-0.032109359433019],[109.355904571227853,-0.034998863024771]]]}},
+{"type":"Feature","properties":{"fid":2,"nama":"Kawasan Komersial Tanjung Hulu"},"geometry":{"type":"Polygon","coordinates":[[[109.370535709636798,-0.02630995763041],[109.3659525396628,-0.026029355387104],[109.363801255797455,-0.028320940374103],[109.36670081231162,-0.029209514144572],[109.370535709636798,-0.02630995763041]]]}}
+]
+}
